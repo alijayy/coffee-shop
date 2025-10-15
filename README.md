@@ -2,5 +2,5 @@
 
 A coffee shop ordering app built with React Native \& Expo.
 
-!\[](coffee_shop.gif)
+![]([https://github.com/alijayy/coffee-shop/raw/main/coffee_shop.gif)
 
