@@ -1,5 +1,6 @@
 # ☕ Kopi Paste App
 
-A coffee shop ordering app built with React Native & Expo.
+A coffee shop ordering app built with React Native \& Expo.
 
-![Demo GIF](Coffee Shop.gif)
+!\[](coffee\_shop.gif)
+
